@@ -5,10 +5,8 @@
 ## 🌟 Features
 
 - Add website URLs with a custom name
-- Click to open saved bookmarks in a new tab
-- Delete individual or all bookmarks
-- Automatically saves data locally in the browser
-- Responsive design for mobile and desktop use
+- URL will be displayed in the box below
+- Easy access to the links 
 
 ## 🚀 Technologies Used
 

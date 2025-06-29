@@ -1,6 +1,6 @@
 # Bookmark Saver
 
-**Bookmark Saver** is a simple and efficient web application that allows users to save and manage their favorite website links as bookmarks. Built using **HTML**, **CSS**, and **JavaScript**, this lightweight tool stores data in the browser using `localStorage`, making it fast and easy to use without needing a backend or database.
+**Bookmark Saver** is a simple and efficient web application that allows users to save and manage their favorite website links as bookmarks. Built using **HTML**, **CSS**, and **JavaScript**, this lightweight tool stores data in the browser. 
 
 ## 🌟 Features
 

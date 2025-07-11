@@ -62,3 +62,6 @@ button:active{
     display: flex;
     justify-content: center;
 }
+.list{
+    position: relative;
+}
